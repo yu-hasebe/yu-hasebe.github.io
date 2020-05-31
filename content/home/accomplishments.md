@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://www.cncf.io/certification/ckad/"
   certificate_url = ""
   date_start = "2019-07-01"
-  date_end = "2021-06-30"
+  date_end = "2022-06-30"
 
 [[item]]
   organization = "IPA"

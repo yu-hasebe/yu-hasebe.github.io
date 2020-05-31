@@ -24,7 +24,7 @@ subtitle = ""
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Mathematics"
-  description = "university level"
+  description = "graduate level"
   
 [[feature]]
   icon = "font"

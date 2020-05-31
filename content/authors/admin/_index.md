@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-[TODO] what I would like to do
+[TODO] self-introduction

@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   
   * Completed some projects, using Ruby on Rails.
   * Refactoring code, including the removal of unnecessary endpoints.
-  * Investigation for customer support, using shell and MySQL.
-  * Leading a junior as a Menter.
+  * Investigation for customer support, using MySQL.
+  * Leading a junior as a mentor.
   """
 
 [[experience]]
