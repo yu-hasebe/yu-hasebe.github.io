@@ -44,3 +44,21 @@ Copyright 2017-present [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+## Memo
+### How to edit?
+Edit on develop branch.
+
+### How to deploy?
+```
+$ git checkout develop
+$ git add ./
+$ git commit -m "Add something"
+$ git push origin develop
+$ hugo
+$ cd public
+$ git checkout master
+$ git add ./
+$ git commit -m "Add something" # <= the same message recommended
+$ git push origin master
+```
